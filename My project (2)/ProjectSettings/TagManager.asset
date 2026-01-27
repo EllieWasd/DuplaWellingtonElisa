@@ -7,6 +7,7 @@ TagManager:
   - chao
   - Carro
   - Carro_2
+  - coin
   layers:
   - Default
   - TransparentFX
